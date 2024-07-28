@@ -6,3 +6,7 @@ Start react app by
 
 Start backend by running server.go
 	- go run server.go
+
+
+[![GET.png](https://i.postimg.cc/HW4X7XY7/GET.png)](https://postimg.cc/nMrCysQH)
+
