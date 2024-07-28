@@ -6,7 +6,3 @@ Start react app by
 
 Start backend by running server.go
 	- go run server.go
-
-
-
-
