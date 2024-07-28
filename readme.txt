@@ -7,6 +7,6 @@ Start react app by
 Start backend by running server.go
 	- go run server.go
 
-
-
-
+<div align="center">
+    <img src="/screenshots/GET.png" width="400px"</img> 
+</div>
